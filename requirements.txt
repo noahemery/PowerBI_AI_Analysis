@@ -1,0 +1,10 @@
+anthropic
+pdf2image
+Pillow
+pandas
+sqlalchemy
+# Uncomment when needed per scenario:
+# pyodbc          # SQL Server (Scenario A/B)
+# cx_Oracle       # Oracle (Scenario A/B)
+# msal            # Power BI REST API (Scenario D)
+# watchdog        # folder watcher (optional)
